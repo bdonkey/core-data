@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Moody" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Moody" TARGET_NAME="Moody" CONFIG_NAME="Debug" SCHEME_NAME="Moody" RUN_TARGET_PROJECT_NAME="Moody" RUN_TARGET_NAME="Moody" MAKE_ACTIVE="TRUE">
+    <envs>
+      <env name="MoodyRemote" value="Console" />
+    </envs>
+    <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+      <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+    </EXTENSION>
+    <method />
+  </configuration>
+</component>
